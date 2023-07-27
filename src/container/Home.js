@@ -86,7 +86,7 @@ function Home() {
           viewBox="0 0 512 512"
           fill="#fff"
         >
-          <AiOutlineRightCircle color="#fff" size={"330px"} />
+          <AiOutlineRightCircle color="#fff" size={"200px"} />
         </svg>
       </button>
     ),
